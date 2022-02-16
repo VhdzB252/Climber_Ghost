@@ -1,2 +1,1 @@
-# Climber_Ghost
-juego vertical infinito
+# C19_LP_AA1
